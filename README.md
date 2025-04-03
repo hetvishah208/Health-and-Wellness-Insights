@@ -1,6 +1,6 @@
 # Health and Wellness Insights: From Prevention to Perception
 
-** Tableau Link to the Project:** https://public.tableau.com/app/profile/hetvishah208/viz/HealthandWellnessInsightsFromPreventionToPerception/HealthandWellnessInsight
+**Tableau Link to the Project:** https://public.tableau.com/app/profile/hetvishah208/viz/HealthandWellnessInsightsFromPreventionToPerception/HealthandWellnessInsight
 
 ## Project Overview
 
